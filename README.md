@@ -18,8 +18,8 @@
 ## 🧩 Tech Stack
 
 ### 🔧 Backend
-![PHP](<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> )
-![Yii2](https://img.shields.io/badge/Yii2-1f72b5)
+<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
+![Yii2]([https://img.shields.io/badge/Yii2-1f72b5](https://developer.mozilla.org/en-US/docs/Web/yii2))
 ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
