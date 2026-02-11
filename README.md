@@ -1,93 +1,25 @@
-# 👋 Hi, I’m TinBui
+# Hi 👋, I'm Bùi Trọng Tín
 
-> Backend Developer | PHP (Yii2, Laravel) • Vue 3 • Docker • MySQL  
-> Focus on system stability, performance & clean architecture
+### Fullstack Developer
 
----
+- 🌱 I'm currently learning **PHP (Yii2, Laravel), MySQL, VueJS, Python,...**
 
-## 🚀 About Me
+- 📫 How to reach me **trongtin30899@gmail.com**
 
-- 💼 Backend Developer với **PHP**
-- 🧠 Làm nhiều hệ thống **payment, ERP, admin backend**
-- ⚙️ Quan tâm sâu tới **DB optimization, transaction, concurrency**
-- 🐳 Docker (local → staging → production)
-- 🌱 Hiện tại đang mở rộng sang **Vue 3 + Vite** cho backend UI
+- 👨‍💻 All of my projects are available at **[https://github.com/TinBui99](https://github.com/TinBui99)**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/TinBui99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TinBui99" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tin.bui.5439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tin.bui.5439" height="30" width="40" /></a>
+</p>
 
-## 🧩 Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
-### 🔧 Backend
-<a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
-<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TinBui99&show_icons=true&locale=en&layout=compact" alt="TinBui99" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TinBui99&show_icons=true&locale=en" alt="TinBui99" /></p>
 
-### 🎨 Frontend (for Backend UI)
-![Vue](https://img.shields.io/badge/Vue-3-42b883?logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
-- Vue 3 (Composition API)
-- Vue Router
-- Vite
-- Admin / Dashboard UI
-
----
-
-### 🛠 DevOps & System
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-- Docker & Docker Compose
-- Nginx
-- Linux (Ubuntu)
-- VPS / Server setup
-
----
-
-## 📌 Highlight Projects
-
-### 💳 Payment / Fintech Systems
-- Xử lý **transaction**, **refund**, **callback**
-- Làm việc với nhiều payment channel
-- Quan tâm đặc biệt tới **data consistency & rollback**
-
-### 🏥 Healthcare / ERP / Admin System
-- Backend bằng **PHP**
-- Frontend Vue 3 (Vite)
-- Mock data layer → chuẩn bị tích hợp API thật
-
-### 🧱 Internal Tools
-- Admin dashboard
-- Report, export, filter dữ liệu lớn
-- Tối ưu query & index
-
----
-
-## 🧠 What I Care About
-
-- Clean code nhưng **không over-engineering**
-- Database đúng ngay từ thiết kế
-- Code dễ maintain hơn là “trông cho hay”
-- Hiểu bản chất framework, không chỉ dùng API
-
-<details>
-<summary>📂 More technical interests</summary>
-
-- SQL execution plan & index strategy  
-- Deadlock & lock timeout analysis  
-- REST API design & validation  
-- Secure input handling  
-- Dockerized local development  
-
-</details>
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/TinBui99
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TinBui99&" alt="TinBui99" /></p>
 
