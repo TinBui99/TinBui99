@@ -2,7 +2,7 @@
 
 ### Fullstack Developer
 
-- 🌱 I'm currently learning **PHP (Yii2, Laravel), MySQL, VueJS, Python,...**
+- 🌱 I'm currently working **PHP (Yii2, Laravel), Python, MySQL, VueJS, ,...**
 
 - 📫 How to reach me **trongtin30899@gmail.com**
 
